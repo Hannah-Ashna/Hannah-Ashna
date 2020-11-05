@@ -7,8 +7,7 @@ I'm a second-year **Computer Science (Games Tech)** student at Nottingham Trent 
 - 😄 Pronouns: **She/Her**
  
 ### Some Funky Stats:
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=hannah-ashna&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)  
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hannah-ashna&show_icons=true&theme=dark&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=hannah-ashna&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hannah-ashna&show_icons=true&theme=dark&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
