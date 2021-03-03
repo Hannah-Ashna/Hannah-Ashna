@@ -1,4 +1,4 @@
-## Well hello there ... 👋
+# Well hello there ... 👋
 I'm a second-year **Computer Science (Games Tech)** student at Nottingham Trent University. I'm also a current committee member of the [Developer's Society](https://github.com/NTUDevSoc) and an instructor for [Code First Girls](https://codefirstgirls.org.uk/).
 
 - 🔭 I’m currently working on a **Graphics Application** made using **Processing 3.x**
