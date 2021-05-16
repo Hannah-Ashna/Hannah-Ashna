@@ -1,8 +1,8 @@
 # Well hello there ... 👋
-I'm a second-year **Computer Science (Games Tech)** student at Nottingham Trent University. I'm also a current committee member of the [Developer's Society](https://github.com/NTUDevSoc) and an instructor for [Code First Girls](https://codefirstgirls.org.uk/).
+I'm a second-year **Computer Science (Games Tech)** student at Nottingham Trent University. I'm also a current committee member of the [**Developer's Society**](https://github.com/NTUDevSoc) and an instructor for [**Code First Girls**](https://codefirstgirls.org.uk/).
 
 - 🔭 I’m currently working on a **[3D Modelling Portfolio](https://github.com/Hannah-Ashna/3D-Modelling-Portfolio)** using **3DS Max** and **Unreal Engine**
-- ✨ Some other projects I'm working on include a **[Discord Bot](https://github.com/Hannah-Ashna/Discord-Bot)** hosted on an **AWS EC2 Instance** and a **Graphics Application** made using **Processing 3.x**
+- ✨ Some other projects I'm working on include a **[Discord Bot](https://github.com/Hannah-Ashna/Discord-Bot)** hosted on an **AWS EC2 Instance** and a **[Graphics Application](https://github.com/Hannah-Ashna/Graphics-Application)** made using **Processing 3.x**
 - 🌱 I’m currently learning about **pen-testing** via **HackTheBox**
 - 📫 How to reach me: [**E-mail**](mailto:hannah.ashna.jacob@gmail.com) or [**Linkedin**](https://www.linkedin.com/in/hannah-ashna-jacob/)
 - 😄 Pronouns: **She/Her**
