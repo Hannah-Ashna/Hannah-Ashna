@@ -1,7 +1,7 @@
 # Well hello there ... 👋
 I'm a second-year **Computer Science (Games Tech)** student at Nottingham Trent University. I'm part of the Senior Committee for the [**Developer's Society**](https://github.com/NTUDevSoc) and an instructor for [**Code First Girls**](https://codefirstgirls.org.uk/).
 
-- 🔭 I’m currently working on **[insert project idea here]** ... yep, I'm on a quick break before my placement
+- 🔭 I’m currently working on **learning COBOL & JCL** while on my placement ...
 - ✨ Some other projects I have previously worked on include a **[Discord Bot](https://github.com/Hannah-Ashna/Discord-Bot)** hosted on an **AWS EC2 Instance**, My **[3D Modelling](https://github.com/Hannah-Ashna/3D-Modelling-Portfolio)** Portfolio using **3DS Max** and **Unreal Engine** and a **[Graphics Application](https://github.com/Hannah-Ashna/Graphics-Application)** made using **Processing 3.x**
 - 🌱 I’m currently learning about **pen-testing** via **HackTheBox**
 - 📫 How to reach me: [**Linkedin**](https://www.linkedin.com/in/hannah-ashna-jacob/)
