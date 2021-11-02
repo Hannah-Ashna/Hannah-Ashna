@@ -10,7 +10,7 @@ I'm a third-year **Computer Science (Games Tech)** student at Nottingham Trent U
 
  
 ### Some Funky Stats:
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hannah-ashna&show_icons=true&hide_border=true&theme=vision-friendly-dark&langs_count=8&hide=ShaderLab,HLSL,ASP.NET,JavaScript,D,Makefile,QMake,C,Kotlin&layout=compact&custom_title=Top%20Languages)](https://github.com/anuraghazra/github-readme-stats) [![Github Stats](https://github-readme-stats.vercel.app/api?username=hannah-ashna&show_icons=true&hide_rank=true&count_private=true&theme=vision-friendly-dark&hide_border=true&custom_title=Github%20Stats&line_height=24.75)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hannah-ashna&show_icons=true&hide_border=true&theme=vision-friendly-dark&langs_count=8&hide=ShaderLab,HLSL,ASP.NET,JavaScript,D,Makefile,QMake,C,Kotlin&layout=compact&custom_title=Top%20Languages)](https://github.com/anuraghazra/github-readme-stats) [![Github Stats](https://github-readme-stats.vercel.app/api?username=hannah-ashna&show_icons=true&hide_rank=true&include_all_commits=true&count_private=true&theme=vision-friendly-dark&hide_border=true&custom_title=Github%20Stats&line_height=24.75)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Hannah-Ashna/Hannah-Ashna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
