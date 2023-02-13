@@ -1,9 +1,9 @@
 # Well hello there ... 👋
-I'm a final-year **Computer Science (Games Tech)** student at Nottingham Trent University. I'm part of the Senior Committee for the [**Developer's Society**](https://github.com/NTUDevSoc) and an instructor for [**Code First Girls**](https://codefirstgirls.org.uk/).
+I'm a final-year **Computer Science (Games Tech)** student at Nottingham Trent University. I'm part of the Senior Committee for the [**Developer's Society**](https://github.com/NTUDevSoc) and I'm a Mentor and Ambassador for the University. At the moment, I'm working part-time as a **Mainframe Developer** at [**Next**](https://www.next.co.uk/)
 
-- 🔭 At the moment, I'm working as a **Part-time Mainframe Developer** at [**Next**](https://www.next.co.uk/)
+### Fun Stuff:
 - ⚡ My primary side project involves me working on my final year **Dissertation** project (Coming Soon)
-- ✨ Some projects I have recently worked on include my **[3D Modelling](https://github.com/Hannah-Ashna/3D-Modelling-Portfolio)** Portfolio using **3DS Max** and **Unreal Engine** and a **[Graphics Application](https://github.com/Hannah-Ashna/Graphics-Application)** made using **Processing 3.x**
+- ✨ Some of my favourite projects I've ever worked on include my team's final Hackathon project, **[The XORcist](https://github.com/FrogRats/XORcist)** made using **C#** and **Unity** and a **[Graphics Application](https://github.com/Hannah-Ashna/Graphics-Application)** made using **Processing 3.x**
 - 🌱 Interested in Mainframes? I've got some of my notes on [**COBOL & JCL**](https://github.com/Hannah-Ashna/COBOL-Exercises) stored in a public repo.
 - 📫 How to reach me: [**Linkedin**](https://www.linkedin.com/in/hannah-ashna-jacob/)
 - 😄 Pronouns: **She/Her**
